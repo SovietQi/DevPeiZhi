@@ -1,0 +1,13 @@
+NewKillAura:APS:7.0
+NewKillAura:reach:4.5
+Antibot:mode:Hypixel
+KillAura:autoblock:true
+Velocity:percentage:0.0
+NewCriticals:mode:NewHypixel
+NewSpeed:mode:HypixelHop
+Flight:mode:Hypixel
+Inventory+:MoreInventory:false
+ChestStealer:delay:150.0
+AutoArmor:delay:200.0
+Scaffold:tower:true
+Scaffold:Silent:true

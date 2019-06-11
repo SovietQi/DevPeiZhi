@@ -4,6 +4,7 @@ Antibot:mode:Hypixel
 KillAura:autoblock:true
 Velocity:percentage:0.0
 NewCriticals:mode:NewHypixel
+NewCriticals:hurrttime:4.0
 NewSpeed:mode:HypixelHop
 Flight:mode:Hypixel
 Inventory+:MoreInventory:false
